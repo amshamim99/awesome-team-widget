@@ -23,7 +23,7 @@ body {
 
 /* Content */
 .team-content {
-  background: #2c0a5d;
+  /* background: #2c0a5d; */
   padding: 20px;
   color: #fff;
 }
@@ -34,10 +34,8 @@ body {
 }
 
 .team-content span {
-  font-size: 14px;
   display: block;
   margin-bottom: 15px;
-  color: #ccc;
 }
 
 /* Social Icons */
@@ -55,13 +53,9 @@ body {
 }
 
 .social-icons li a {
-  width: 35px;
-  height: 35px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #fff;
-  color: #2c0a5d;
   border-radius: 50%;
   transition: 0.3s;
   text-decoration: none;
@@ -69,19 +63,9 @@ body {
 
 /* Hover Effect */
 .social-icons li a:hover {
-  background: #ff4a57;
-  color: #fff;
   transform: translateY(-3px);
 }
 
-/* Card Hover */
-.team-card:hover {
-  transform: translateY(-8px);
-}
-
-.team-card:hover .team-content {
-  background: #1a0440;
-}
 
 /* css-style-2-here// */
 
