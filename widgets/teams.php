@@ -151,7 +151,6 @@
                 ]
             );
 
-  
 
             $this->end_controls_section();
 
@@ -597,9 +596,6 @@
 
 
             $this->end_controls_section();
-
-
-
            
         }
 
